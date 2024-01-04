@@ -1,0 +1,4 @@
+url=https://qa-refapp.openmrs.org/openmrs/login.htm
+username=Admin
+password=Admin123
+Timeout=30
